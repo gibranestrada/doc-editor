@@ -16,7 +16,7 @@ const App = () => {
 
   useEffect(() => {
     const clients = new W3CWebSocket(
-      "wss://server-editor.herokuapp.com/"
+      "ws://server-editor.herokuapp.com/"
     );
     clients.onopen = () => {
       console.log("WebSocket Client Connected");
