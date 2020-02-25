@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gibranestrada.github.io/client-editor",
+  "homepage": "https://gibranestrada.github.io/doc-editor",
   "dependencies": {
     "medium-editor": "^5.23.3",
     "react": "^16.11.0",
